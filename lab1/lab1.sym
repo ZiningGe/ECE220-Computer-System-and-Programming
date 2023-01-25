@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP1             3004
+//	LOOP2             3007
+//	ZERO              300B
+//	LESS              3012
+//	NEXT              3013
+//	A                 3017
+//	ZEROTEN           3018
+
